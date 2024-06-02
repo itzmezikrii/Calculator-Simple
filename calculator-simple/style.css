@@ -1,0 +1,77 @@
+
+.container{
+    margin: 0 auto;
+    color: white;
+    width: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    position: relative;
+    top: 100px;
+    box-shadow: 0px 7px 18px black;
+}
+
+.clcbtn{
+
+    background-color: transparent;
+    border-style: groove;
+    color: white;
+    border: 1;
+    width: 50px;
+    border-color: white;
+    margin-left: 12px;
+}
+.fclc{
+    background-color: transparent;
+    border-style: groove;
+    color: white;
+    border: 1;
+    width: 50px;
+    border-color: white;
+    margin-left: 80px;  
+}
+.clcbtn:hover{
+    background-color: white;
+    color: black;
+}
+.fclc:hover{
+    background-color: white;
+    color: black;
+}
+.select{
+    margin-left: 180px;
+}
+h2{
+    font-size: 20px;
+    margin-left: 10px;
+    text-align: center;
+}
+body{
+    margin: 0;
+    background-image: url(img/back.jpg);
+    background-size: 1600px;
+    background-attachment: fixed;
+}
+
+label{
+    margin-left: 13px;
+
+}
+
+.input{
+    margin-left: 10px;
+    border-radius: 6px;
+    border: 1;
+    border-style: solid;
+    width: 470px;
+    height: 19px;
+}
+
+select{
+    margin-left: 10px;
+    border-radius: 6px;
+    border: 1;
+    border-style: solid;
+    width: 480px;
+    height: 23px;
+}
